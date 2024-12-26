@@ -1,0 +1,3 @@
+sandun , sasa@gmail.com , manager , sasa , 1234
+sandaru, sandaru@gmail.com, cashier ,sanda , 1234
+YoYo,yoyo@gmail.com,Cashier,yoyo,yo123
